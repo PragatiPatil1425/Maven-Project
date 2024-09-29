@@ -15,7 +15,7 @@ spec:
         app: pragati-app
     spec:
       containers:
-      - name: loksai-eta-container
+      - name: pragati-container
         image: pragatipatil1425/sa-wd-webapp
         ports:
         - containerPort: 8080
